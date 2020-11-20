@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Benchmarking, Profiling, and Optimizing Your Python Code*](https://rd.springer.com/video) by Coen de Groot (Apress, 2020).
+This repository accompanies [*Benchmarking, Profiling, and Optimizing Your Python Code*](https://rd.springer.com/video/10.1007/https://rd.springer.com/video/10.1007/978-1-4842-6776-9) by Coen de Groot (Apress, 2020).
 
 [comment]: #cover
-![Cover image](xxxxx.jpg)
+![Cover image](9781484267769.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
